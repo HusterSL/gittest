@@ -1,2 +1,1 @@
-hello.hangzhou 
-hello guangzhou
+hello china 
