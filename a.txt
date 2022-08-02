@@ -1,3 +1,4 @@
 
 hello china
 hello USA
+test git merge 
