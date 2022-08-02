@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 test2 git merge
-=======
-test01 git merge
->>>>>>> test1
 hello china
 hello USA
-test git merge 
+test git merge
+hello 
