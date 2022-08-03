@@ -1,10 +1,4 @@
-test2 git merge
-hello china
-hello USA
-<<<<<<< HEAD
-test git merge
-hello 
-=======
-test git merge 
-hi
->>>>>>> test2
+first
+second
+third
+four
